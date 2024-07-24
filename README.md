@@ -8,7 +8,7 @@
 📫 How to reach me is nohriter@gmail.com  
 
 **Skill**  
-- Java, Spring Boot, JPA, MySQL, JavaScript, HTML/CSS
+- Java, Spring Boot, JPA, MySQL, JavaScript
 
 **Education**  
 - CodeSquad 2022 Masters Course Java Backend (2022.01 ~ 2022.06)
